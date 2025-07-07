@@ -5,3 +5,5 @@ FACTORIAL is !
 2 FACTORIAL = 2! = 2
 
 player-move goohyun
+
+kimtaehwa KIMTAEHWA
